@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sauravarvind/Wibro-Technologies.git/static/css/main.f0ae92e2.css",
-    "main.js": "/sauravarvind/Wibro-Technologies.git/static/js/main.456a1dda.js",
-    "static/media/bgimg.jpg": "/sauravarvind/Wibro-Technologies.git/static/media/bgimg.2eb8d27da272cb5c62da.jpg",
-    "static/media/missionimg.jpg": "/sauravarvind/Wibro-Technologies.git/static/media/missionimg.8fcb68c8c9af836b6145.jpg",
-    "index.html": "/sauravarvind/Wibro-Technologies.git/index.html",
-    "main.f0ae92e2.css.map": "/sauravarvind/Wibro-Technologies.git/static/css/main.f0ae92e2.css.map",
-    "main.456a1dda.js.map": "/sauravarvind/Wibro-Technologies.git/static/js/main.456a1dda.js.map"
+    "main.css": "/sauravarvind/Wibro-Technologies/static/css/main.c74100a3.css",
+    "main.js": "/sauravarvind/Wibro-Technologies/static/js/main.456a1dda.js",
+    "static/media/bgimg.jpg": "/sauravarvind/Wibro-Technologies/static/media/bgimg.2eb8d27da272cb5c62da.jpg",
+    "static/media/missionimg.jpg": "/sauravarvind/Wibro-Technologies/static/media/missionimg.8fcb68c8c9af836b6145.jpg",
+    "index.html": "/sauravarvind/Wibro-Technologies/index.html",
+    "main.c74100a3.css.map": "/sauravarvind/Wibro-Technologies/static/css/main.c74100a3.css.map",
+    "main.456a1dda.js.map": "/sauravarvind/Wibro-Technologies/static/js/main.456a1dda.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0ae92e2.css",
+    "static/css/main.c74100a3.css",
     "static/js/main.456a1dda.js"
   ]
 }
